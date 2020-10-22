@@ -1,0 +1,9 @@
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.data\bin\Debug\netcoreapp3.1\webapi.data.deps.json
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.data\bin\Debug\netcoreapp3.1\webapi.data.dll
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.data\obj\Debug\netcoreapp3.1\webapi.data.csprojAssemblyReference.cache
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.data\obj\Debug\netcoreapp3.1\webapi.data.AssemblyInfoInputs.cache
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.data\obj\Debug\netcoreapp3.1\webapi.data.AssemblyInfo.cs
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.data\bin\Debug\netcoreapp3.1\webapi.data.pdb
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.data\obj\Debug\netcoreapp3.1\webapi.data.csproj.CoreCompileInputs.cache
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.data\obj\Debug\netcoreapp3.1\webapi.data.dll
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.data\obj\Debug\netcoreapp3.1\webapi.data.pdb

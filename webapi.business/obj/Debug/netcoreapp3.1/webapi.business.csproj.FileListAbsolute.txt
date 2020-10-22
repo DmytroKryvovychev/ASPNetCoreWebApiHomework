@@ -1,0 +1,12 @@
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\bin\Debug\netcoreapp3.1\webapi.data.dll
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\obj\Debug\netcoreapp3.1\webapi.business.csprojAssemblyReference.cache
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\obj\Debug\netcoreapp3.1\webapi.business.AssemblyInfoInputs.cache
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\obj\Debug\netcoreapp3.1\webapi.business.AssemblyInfo.cs
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\bin\Debug\netcoreapp3.1\webapi.business.deps.json
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\bin\Debug\netcoreapp3.1\webapi.business.dll
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\bin\Debug\netcoreapp3.1\webapi.business.pdb
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\bin\Debug\netcoreapp3.1\webapi.data.pdb
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\obj\Debug\netcoreapp3.1\webapi.business.csproj.CoreCompileInputs.cache
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\obj\Debug\netcoreapp3.1\webapi.business.csproj.CopyComplete
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\obj\Debug\netcoreapp3.1\webapi.business.dll
+C:\Users\Demian\source\repos\ASPNetCoreWebApiHomework\webapi.business\obj\Debug\netcoreapp3.1\webapi.business.pdb
